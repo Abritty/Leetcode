@@ -31,3 +31,4 @@ if __name__ == "__main__":
     word1 = ""
     word2 = "pq"
     print(merge_alternately(word1, word2))
+    
